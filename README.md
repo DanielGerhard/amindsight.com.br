@@ -1,1 +1,0 @@
-# amindsight.com.br
