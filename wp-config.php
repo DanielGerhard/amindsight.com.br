@@ -20,29 +20,19 @@
 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-<<<<<<< HEAD
-define( 'DB_NAME', 'database_name_here' );
-
-/** Database username */
-define( 'DB_USER', 'username_here' );
-
-/** Database password */
-define( 'DB_PASSWORD', 'password_here' );
-=======
-define( 'DB_NAME', 'admin' );
+define( 'DB_NAME', 'wpdb' );
 
 /** Database username */
 define( 'DB_USER', 'root' );
 
 /** Database password */
 define( 'DB_PASSWORD', 'Entre@123' );
->>>>>>> 6bae0f40075f233db6f8e39c08f436f82305ad3b
 
 /** Database hostname */
 define( 'DB_HOST', 'localhost' );
 
 /** Database charset to use in creating database tables. */
-define( 'DB_CHARSET', 'utf8' );
+define( 'DB_CHARSET', 'utf8mb4' );
 
 /** The database collate type. Don't change this if in doubt. */
 define( 'DB_COLLATE', '' );
@@ -58,14 +48,14 @@ define( 'DB_COLLATE', '' );
  *
  * @since 2.6.0
  */
-define( 'AUTH_KEY',         'put your unique phrase here' );
-define( 'SECURE_AUTH_KEY',  'put your unique phrase here' );
-define( 'LOGGED_IN_KEY',    'put your unique phrase here' );
-define( 'NONCE_KEY',        'put your unique phrase here' );
-define( 'AUTH_SALT',        'put your unique phrase here' );
-define( 'SECURE_AUTH_SALT', 'put your unique phrase here' );
-define( 'LOGGED_IN_SALT',   'put your unique phrase here' );
-define( 'NONCE_SALT',       'put your unique phrase here' );
+define( 'AUTH_KEY',         '=I<9^Y?2!+UH#br+OBey`b8X`~Ya$1i!j 8l2/Q7&g7fe3(Lrf^<b}Yn|SH.=qg9' );
+define( 'SECURE_AUTH_KEY',  'QEhXBVth<^Nh68r v${O#t4M;meAWv_2K={uh kV]6%N Xl>jnkxj>l~)vvIZu:&' );
+define( 'LOGGED_IN_KEY',    '!XhbHMq =2^z4]Z&mE&a>)Ta,:0@j6AM[*QSt;x<}rCn!fdhQ`ET_0]SPbgab:(_' );
+define( 'NONCE_KEY',        'W|&!v{ssjPu@{$]ZCuOk2*_Uv!E)bD<tGWaG{UK7ObH|x93G{YhGekyuhdY, 0I!' );
+define( 'AUTH_SALT',        ')e~f+#zR{]>(52YJ{o6MDn#>&L)Fa1eD(VK/v5RiQsA{wmVh_8CFwq$n8nd`yN<q' );
+define( 'SECURE_AUTH_SALT', 'o7MTwDOa!W7~>s|p$UW2N+8u53u?-q,t6eUR$9,O/<I!y]=QR+}H&P4/QKC[k%pK' );
+define( 'LOGGED_IN_SALT',   'R!0,Y>|-+&=$qw30`$3G?nO.zJ6F2OUo8lVf#;5wceafh[Gl0X+bGmtT&@S(zrZq' );
+define( 'NONCE_SALT',       '(>)}Yg{8dCN0sX3P-s eK]Y#.r]>>2TR?Zpclp5Xlr1`&Zl.yicUh^Ing41=/}`+' );
 
 /**#@-*/
 
