@@ -1,0 +1,4 @@
+[12-Feb-2023 14:37:42 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/aminds35/public_html/wp-content/themes/amindsight/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home1/aminds35/public_html/wp-content/themes/amindsight/index.php on line 1
