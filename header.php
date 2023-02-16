@@ -26,11 +26,6 @@
 
 					<nav id="header">
 						<ul class="menu">
-							<a href="/">
-								<li class="item-menu">
-									Home
-								</li>
-							</a>
 							<a href="/gallery">
 								<li class="item-menu">
 									Gallery

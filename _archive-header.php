@@ -1,0 +1,1 @@
+<h1 style="titulo-archive"><?php echo the_title(); ?></h1>
